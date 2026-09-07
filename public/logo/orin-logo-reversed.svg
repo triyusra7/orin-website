@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-label="Orin Mandarin — 欧林中文">
+  <circle cx="48" cy="48" r="46" fill="none" stroke="#EDE6CA" stroke-width="3"/>
+  <circle cx="48" cy="48" r="41" fill="#FEB100"/>
+  <circle cx="48" cy="48" r="22" fill="none" stroke="#8B0100" stroke-width="10"/>
+  <circle cx="48" cy="20.5" r="6.5" fill="#8B0100"/>
+  <text x="106" y="58" font-family="Poppins, 'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="40" fill="#FFFFFF" letter-spacing="2">ORIN</text>
+  <text x="108" y="84" font-family="'Noto Sans SC', system-ui, sans-serif" font-weight="700" font-size="20" fill="#FEB100" letter-spacing="6">欧林中文</text>
+</svg>

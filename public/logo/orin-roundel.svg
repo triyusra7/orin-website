@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Orin Mandarin roundel">
+  <!-- thin blue ring -->
+  <circle cx="48" cy="48" r="46" fill="none" stroke="#334B89" stroke-width="3"/>
+  <!-- yellow disc -->
+  <circle cx="48" cy="48" r="41" fill="#FEB100"/>
+  <!-- maroon O monogram with brush-dot accent -->
+  <circle cx="48" cy="48" r="22" fill="none" stroke="#8B0100" stroke-width="10"/>
+  <circle cx="48" cy="20.5" r="6.5" fill="#8B0100"/>
+</svg>
