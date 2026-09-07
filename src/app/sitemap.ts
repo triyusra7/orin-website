@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 import { getPosts } from "@/lib/blog";
 
+export const dynamic = "force-static";
+
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://orinmandarin.com";
 
 /** "/" for id (default, unprefixed), "/en/..." for en (PRD §7 hreflang). */
