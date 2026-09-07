@@ -1,3 +1,4 @@
+# GitHub Actions deployment workflow for GitHub Pages
 name: Deploy Next.js site to GitHub Pages
 
 on:
